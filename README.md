@@ -3,6 +3,10 @@
 [Javajaotan](https://github.com/jaoafa/Javajaotan)がなんらかの理由により停止していた場合に動作するためのDiscord Botです。  
 基本的には常時起動しており、Javajaotanの機能のうち重要な機能のみを実装し停止時の運用を行います。
 
+## 移行済
+
+https://github.com/jaoafa/node-jaotan
+
 ## 実装機能
 
 以下の機能を実装しています。
